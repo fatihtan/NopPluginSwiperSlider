@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Swiper Slider",
+  "SystemName": "Widgets.SwiperSlider",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "Fatih Tan",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.SwiperSlider.dll",
+  "Description": "This plugin allows you to add swiper slider"
+}
