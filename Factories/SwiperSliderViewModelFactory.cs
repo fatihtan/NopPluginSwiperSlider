@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Nop.Core;
 using Nop.Core.Domain.Media;
+using Nop.Plugin.Widgets.SwiperSlider.Areas.Admin.Services;
+using Nop.Plugin.Widgets.SwiperSlider.Models;
 using Nop.Services.Media;
 
 namespace Nop.Plugin.Widgets.SwiperSlider.Factories

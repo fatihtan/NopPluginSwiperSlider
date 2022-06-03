@@ -13,6 +13,7 @@ using Nop.Plugin.Widgets.SwiperSlider.Areas.Admin.Models;
 using Nop.Plugin.Widgets.SwiperSlider.Areas.Admin.Services;
 using Nop.Plugin.Widgets.SwiperSlider.Areas.Admin.Validators;
 using Nop.Data.Extensions;
+using Nop.Plugin.Widgets.SwiperSlider.Factories;
 
 namespace Nop.Plugin.Widgets.SwiperSlider.Infrastructure
 {
